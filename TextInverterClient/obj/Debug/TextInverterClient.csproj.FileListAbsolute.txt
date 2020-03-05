@@ -1,0 +1,10 @@
+D:\TextInverterServer\TextInverterClient\bin\Debug\TextInverterClient.exe.config
+D:\TextInverterServer\TextInverterClient\bin\Debug\TextInverterClient.exe
+D:\TextInverterServer\TextInverterClient\bin\Debug\TextInverterClient.pdb
+D:\TextInverterServer\TextInverterClient\obj\Debug\TextInverterClient.csprojResolveAssemblyReference.cache
+D:\TextInverterServer\TextInverterClient\obj\Debug\TextInverterClient.Form1.resources
+D:\TextInverterServer\TextInverterClient\obj\Debug\TextInverterClient.Properties.Resources.resources
+D:\TextInverterServer\TextInverterClient\obj\Debug\TextInverterClient.csproj.GenerateResource.Cache
+D:\TextInverterServer\TextInverterClient\obj\Debug\TextInverterClient.csproj.CoreCompileInputs.cache
+D:\TextInverterServer\TextInverterClient\obj\Debug\TextInverterClient.exe
+D:\TextInverterServer\TextInverterClient\obj\Debug\TextInverterClient.pdb
